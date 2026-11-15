@@ -1,8 +1,8 @@
 {
-  "version": "1.7.15",
-  "url": "https://popovdima08122011-coder.github.io/AurafX-website-relise/downloads/AuraFX-Launcher-1.7.15-Setup.exe",
-  "sha256": "b91faa9a87a7bb3bab4faacd7beb135ada5fb3f80909ecaa5d5ae3775d10c2e0",
-  "size": 2624289,
-  "sig": "9ac7bd3e1bef6d9520f098d11df4b65bf022be8606487e671345167d41d0accd9eea87aafab54c9c45ebe0e1068bf6af46acf40b6f3da1c26d5c6ae28446b205",
-  "notes": "Защита: секреты сессии через окружение, не в командной строке Java"
+  "version": "1.7.16",
+  "url": "https://popovdima08122011-coder.github.io/AurafX-website-relise/downloads/AuraFX-Launcher-1.7.16-Setup.exe",
+  "sha256": "9666b8633f183bbc37f0aaa861cc70a88296693c2ff031ecbc1fcd9ec0968658",
+  "size": 2574749,
+  "sig": "448393a731becb4eef2bc8bd5614eef9901f2b20dd908e2c636512539d426c961ff5659023ce2cf52cb3a17fa00a6ac6ffc9149312443ed17298c20638bc450f",
+  "notes": "Убран режим Rust Turbo: только Java + моды"
 }
